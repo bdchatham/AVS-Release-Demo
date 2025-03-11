@@ -1,0 +1,9 @@
+{
+  "avs_name": "AVS Release Nofitication Demo",
+  "avs_contract_address": "0x6BFDe98cb85Fa2c5B3c4A402512451172c0baf2F",
+  "website": "https://github.com/bdchatham/AVS-Release-Demo",
+  "twitter": "https://twitter.com/not-on-twitter",
+  "logo": "https://github.com/bdchatham/AVS-Release-Demo",
+  "description": "An AVS using for demonstrating application release tracking & notifications.",
+  "releaseLocation": "ghcr.io/bdchatham/avs-release-demo"
+}
