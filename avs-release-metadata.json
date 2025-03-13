@@ -2,7 +2,7 @@
   "name": "AVS Release Nofitication Demo",
   "avs_contract_address": "0x4c68f7bef3e14b47ba9af64acb3f0ea70c6535b1",
   "website": "https://github.com/bdchatham/AVS-Release-Demo",
-  "twitter": "https://twitter.com/not-on-twitter",
+  "twitter": "https://twitter.com/i-dont-have-twitter",
   "logo": "https://github.com/bdchatham/AVS-Release-Demo",
   "description": "An AVS using for demonstrating application release tracking & notifications.",
   "operatorSets": [
@@ -14,7 +14,7 @@
           {
             "name": "AVS Application Container",
             "description": "A container located in GHCR for node operators to run.",
-            "location": "ghcr.io/bdchatham/avs-release-demo"
+            "location": "ghcr.io/bdchatham/release-demo"
           }
         ],
         "strategies": [
