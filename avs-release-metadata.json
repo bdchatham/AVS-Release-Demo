@@ -8,7 +8,7 @@
   {
     "name": "AVS Application Container for M2 Quorum operators.",
     "description": "A container located in GHCR for node operators to run.",
-    "location": "ghcr.io/bdchatham/avs-release-demo"
+    "location": "ghcr.io/bdchatham/avs-m2-release-demo"
   },
   "operatorSets": [
       {
