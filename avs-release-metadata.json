@@ -5,7 +5,6 @@
   "twitter": "https://twitter.com/not-on-twitter",
   "logo": "https://github.com/bdchatham/AVS-Release-Demo",
   "description": "An AVS using for demonstrating application release tracking & notifications.",
-  "releaseLocation": "ghcr.io/bdchatham/test-image",
   "operatorSets": [
       {
         "name":"AVS Release Management Demo!",
