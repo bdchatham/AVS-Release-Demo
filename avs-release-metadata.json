@@ -14,7 +14,7 @@
           {
             "name": "AVS Application Container",
             "description": "A container located in GHCR for node operators to run.",
-            "location": "ghcr.io/bdchatham/release-demo"
+            "location": "ghcr.io/bdchatham/avs-release-demo"
           }
         ],
         "strategies": [
