@@ -12,7 +12,7 @@
   },
   "operatorSets": [
       {
-        "name":"AVS Release Management Demo!!",
+        "name":"AVS Release Management Demo!!!",
         "id":"4294967295",
         "description":"A fun demo of operator sets handled by Eigen Labs Release Management Service.",
         "software":[
