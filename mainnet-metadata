@@ -1,6 +1,6 @@
 {
   "name": "mytestoperator",
-  "website": "https://el-operator-metadata.s3.us-east-2.amazonaws.com/",
+  "website": "https://github.com/bdchatham/AVS-Release-Demo/tree/mainline",
   "description": "test operator",
   "logo": "https://raw.githubusercontent.com/bdchatham/AVS-Release-Demo/mainline/operator.png",
   "twitter": "https://www.twitter.com/mytestoperatortest"
