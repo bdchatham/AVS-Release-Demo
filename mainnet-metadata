@@ -1,0 +1,7 @@
+{
+  "name": "mytestoperator",
+  "website": "https://el-operator-metadata.s3.us-east-2.amazonaws.com/",
+  "description": "test operator",
+  "logo": "https://el-operator-metadata.s3.us-east-2.amazonaws.com/operator.png",
+  "twitter": "https://www.twitter.com/mytestoperatortest"
+}
